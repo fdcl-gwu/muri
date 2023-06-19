@@ -2,12 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: Summary
 ---
 
 # Unified Large-Scale Theoretical and Computational Frameworks for Invariance and Composition of Open Hybrid Dynamical Systems
 
-## Project Summary
 
 Hybrid systems are dynamical systems that exhibit both the continuous-time behaviors and the discrete transitions. 
 Due to the intricate interplay between the continuous evolution and the instantaneous jumps, they show complex and rich dynamic characteristics that are challenging, or even formidable, to analyze especially with the conventional apparatus of the dynamic system theory. 
