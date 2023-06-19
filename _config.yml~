@@ -22,7 +22,7 @@ title: "AFOSR MURI"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Invariance and Composition of Open Hybrid Dynamical Systems
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/muri" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
