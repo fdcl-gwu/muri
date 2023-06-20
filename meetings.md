@@ -10,6 +10,8 @@ permalink: /meetings/
 
 * [Overleaf abstract link](https://www.overleaf.com/2334758638grmdwgxtptqy)
 
+* [Baryshnikov Team](files/yuliy_team.pdf)
+
 ## September 15, 2023
 
 * AFOSR MURI Kick-off Meeting at Arlington, VA
