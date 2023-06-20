@@ -6,11 +6,11 @@ permalink: /meetings/
 
 ## June 20, 2023
 
-* [Slides](files/MURI0623.pdf)
+* [Slides](../files/MURI0623.pdf)
 
 * [Overleaf abstract link](https://www.overleaf.com/2334758638grmdwgxtptqy)
 
-* [Baryshnikov Team](files/yuliy_team.pdf)
+* [Baryshnikov Team](../files/yuliy.pdf)
 
 ## September 15, 2023
 
