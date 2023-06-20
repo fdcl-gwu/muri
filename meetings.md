@@ -10,6 +10,8 @@ permalink: /meetings/
 
 * [Overleaf abstract link](https://www.overleaf.com/2334758638grmdwgxtptqy)
 
-## July 28, 2023
+## September 15, 2023
+
+* AFOSR MURI Kick-off Meeting at Arlington, VA
 
 
