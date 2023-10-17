@@ -7,6 +7,8 @@ permalink: /meetings/
 
 ## November 3, 2023
 
+* Location: [FRB 3200](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu) (2505 Hayward St, Ann Arbor, MI 48109)
+
 * PIs are grouped by the relevance of topics
 * Each PI presents for 15 minutes about
     * Relevant prior works
@@ -15,7 +17,9 @@ permalink: /meetings/
     * Very brief summary of expected expenditure (number of students, etc)
 * The discussion for each topic is concluded by brainstorming and open discussion. 
 * Dr. Baryshnikov is interested in participating over Zoom with his team members. He is checking the availability of his team members. 
+
 * Zoom link: [https://umich.zoom.us/j/93818281304?pwd=NEtaT0dQbElqQXU3V0dBVkVFWFY4dz09](https://umich.zoom.us/j/93818281304?pwd=NEtaT0dQbElqQXU3V0dBVkVFWFY4dz09)
+
 
 
 ### Tentative Agenda
