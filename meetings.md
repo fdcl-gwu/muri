@@ -50,20 +50,21 @@ width: 70%;
 | 11:35 - 11:50 | Vasudevan |
 | 11:50 - 12:10 | Open discussion |
 
-#### Joint Discussion
-
-| Time (TBC) | Guest |
-| ---- | ------- |
-| 1:00 - 2:00 | Baryshnikov and other members |
-
 #### Topic 3: Homological Dynamics and Compositional Framework
 
 | Time | Speaker |
 | ---- | ------- |
-| 2:15 - 2:30 | Mischaikow |
-| 2:30 - 2:45 | Kalies |
-| 2:45 - 3:00 | Guralnik |
-| 3:00 - 3:30 | Open discussion |
+| 1:15 - 1:30 | Mischaikow |
+| 1:30 - 1:45 | Kalies |
+| 1:45 - 2:00 | Guralnik |
+| 2:00 - 2:30 | Open discussion |
+
+#### Joint Discussion
+
+| Time (TBC) | Guest |
+| ---- | ------- |
+| 3:00 - 4:00 | Baryshnikov and other members |
+
 
 ## September 15, 2023
 
