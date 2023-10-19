@@ -75,6 +75,6 @@ width: 70%;
 
 * [Overleaf abstract link](https://www.overleaf.com/2334758638grmdwgxtptqy)
 
-* [Baryshnikov Team](../files/yuliy.pdf)
+<!--* [Baryshnikov Team](../files/yuliy.pdf)-->
 
 
