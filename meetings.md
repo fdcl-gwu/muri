@@ -22,7 +22,7 @@ permalink: /meetings/
 
 
 
-### Tentative Agenda
+### Agenda
 
 <style>
     table th:first-of-type {
@@ -32,6 +32,12 @@ width: 30%;
 width: 70%;
     }
 </style>
+
+#### Topic 0: Project Overview
+
+| Time | Speaker |
+| ---- | ------- |
+| 09:00 - 10:10 | Lee |
 
 #### Topic 1: Discovery of Geometric and Topological Properties
 
