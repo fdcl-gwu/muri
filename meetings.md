@@ -14,7 +14,7 @@ permalink: /meetings/
     * [Campus Map](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8)
 
 * Lodging
-    * [Reitz Union](https://union.ufl.edu/hotel/) : right on campus 
+    * [Reitz Union](https://union.ufl.edu/hotel/) : right on campus, used by the MAE department
     * [Hilton UFL](https://www.hilton.com/en/hotels/gvncchf-hilton-university-of-florida-conference-center-gainesville/): used by the MAE department
     * [AC Hotels Marriott](https://www.marriott.com/en-us/hotels/gnvac-ac-hotel-gainesville-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0): used by the math department
     * [Other hotels](https://www.tripadvisor.com/HotelsNear-g34242-d2346306-University_of_Florida-Gainesville_Florida.html)
@@ -53,7 +53,7 @@ width: 70%;
 | ------------- | ---------------- |
 | 15:30 - 16:10 | 5 minutes update from each PI |
 | 16:10 - 17:00 | discussion | 
-| 17:00 - | dinner (tentatively at [Barama Breeze](https://www.bahamabreeze.com/locations/fl/gainesville/gainesville/3058))|
+| 17:00 - | dinner (tentatively at [Bahama Breeze](https://www.bahamabreeze.com/locations/fl/gainesville/gainesville/3058))|
 
 #### Day 2: Friday, March 29th (NEB 401)
 
