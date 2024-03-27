@@ -9,16 +9,18 @@ permalink: /meetings/
 ### Travel
 
 * Location: University of Florida
-    * March 28th: [MAE-A 221](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8)
-    * March 29th: [NEB 401](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8)
-    * [Campus Map](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8)
-
+    * March 28th: [MAE-A 221](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8) (Mechanial and Aerospace Engineering **Building A**)
+    * March 29th: [NEB 401](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8) (New Engineering Building)
+    * Campus Map ([Google map](https://maps.app.goo.gl/2UmAc5KwGUJk1bhy8), [UFL map](https://campusmap.ufl.edu/#/index/0725))
+* [Visitor Parking](https://taps.ufl.edu/visitors/welcome-center-parking-garage/)
+    * [Welcome Center Parking](https://campusmap.ufl.edu/#/index/0886)
+    * [Garage 5](https://campusmap.ufl.edu/#/index/0397)
+    
 * Lodging
     * [Reitz Union](https://union.ufl.edu/hotel/) : right on campus, used by the MAE department
     * [Hilton UFL](https://www.hilton.com/en/hotels/gvncchf-hilton-university-of-florida-conference-center-gainesville/): used by the MAE department
     * [AC Hotels Marriott](https://www.marriott.com/en-us/hotels/gnvac-ac-hotel-gainesville-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0): used by the math department
     * [Other hotels](https://www.tripadvisor.com/HotelsNear-g34242-d2346306-University_of_Florida-Gainesville_Florida.html)
-
 * Airport
     * [Gainsville Regional Airport (GNV)](https://maps.app.goo.gl/XzDaMUuadSzhjeqr5)
     * [Jacksonville Airport (JAX)](https://maps.app.goo.gl/yQRitcqbne2nAvoj6)
@@ -28,7 +30,7 @@ permalink: /meetings/
 >As I have told you earlier, the best airport to fly to is GNV, which is a 20-25 minute Uber ride away from campus. Delta flies here via ATL and American flies here via CLT.
 >Jacksonville (JAX) is about 90 minutes away on a good day. If you take this route, DO NOT SPEED THROUGH STARKE, LAWTEY OR WALDO, or the cops will strip and tan your hide.
 >Orlando (MCO) is 2 hours away on a good day, but I have had to sit in traffic for up to 4 hours when it was raining... I wouldn't recommend risking it if you're on a tight schedule.
- 
+
 
 ### Agenda
 
@@ -52,8 +54,8 @@ width: 70%;
 | Time          | Topic            |
 | ------------- | ---------------- |
 | 15:30 - 16:10 | 5 minutes update from each PI |
-| 16:10 - 17:00 | discussion | 
-| 17:00 - | dinner (tentatively at [Bahama Breeze](https://www.bahamabreeze.com/locations/fl/gainesville/gainesville/3058))|
+| 16:10 - 17:00 | discussion |
+| 17:00 - | dinner ([Indian Cuisine](http://www.indiancuisinerestaurant.com)) |
 
 #### Day 2: Friday, March 29th (NEB 401)
 
