@@ -4,7 +4,74 @@ title: Meetings
 permalink: /meetings/
 ---
 
+## September 24, 2024
+
+### Travel
+
+* Location: University of Illinois Urbana-Champaign
+
+    * Coordinated Science Laboratory (CSL) [(map)](https://maps.app.goo.gl/fUjowZBAbTFnKvPL7)
+
+* Lodging
+
+    * [Illinois Union](https://illiniunionhotel.illinois.edu/)
+    > This is a hotel/guesthouse that's part of the campus. It's about 8-10 min walk from CSL where the meeting will be held. Comfortable, has character, although not luxurious. Could be expensive and/or booked.
+
+    * [Hamption Inn](https://www.hilton.com/en/hotels/cmiilhx-hampton-champaign-urbana/hotel-info/)
+    > Your average hotel, right across the street from CSL (3 min walk). Farther from campus, hence the location is a bit boring. But optimal choice from the viewpoint of convenience, and possibly price.
+
+    * [TownePlace Suites](https://www.marriott.com/en-us/hotels/cmpts-towneplace-suites-champaign-urbana-campustown/rooms/)
+    > A newer hotel right on campus (~8 min walk to CSL). Same convenience as Illini Union, more modern but with less charm.
+
+    * [Hyatt Place](https://www.hyatt.com/hyatt-place/en-US/cmizc-hyatt-place-champaign-urbana)
+    > Some visitors like to stay here because this location is off campus in downtown Champaign, with restaurants and bars right next to it. But this is about 1 mile to CSL, can either walk or take a bus (city bus or hotel shuttle). The hotel itself is quite pleasant.
+
+
+### Agenda
+
+|             | Topic          | Speaker   |
+| ----------- | -------------- | --------- |
+| **8:40-8:50**   | **Opening Remark** | Fred Leve |
+| 8:50-9:15   | Talk 1         |           |
+| 9:15-9:40   | Talk 2         |           |
+| 9:40-10:05  | Talk 3         |           |
+| 10:05-10:30 | Talk 4         |           |
+| **10:30-10:50** | **Break**          |
+| 10:50-11:15 | Talk 5         |           |
+| 11:15-11:40 | Talk 6         |           |
+| 11:40-12:05 | Talk 7         |           |
+| 12:05-12:30 | Talk 8         |           |
+| **12:30-1:30**  | **Lunch**          |
+| 1:30-1:55   | Talk 9         |           |
+| 1:55-2:20   | Talk 10        |           |
+| 2:20-2:45   | Talk 11        |           |
+| 2:45-3:10   | Talk 12        |           |
+| **3:10-3:30**   | **Break**          |           |
+| 3:30-3:55   | Talk 13        |           |
+| 3:55-4:20   | Talk 14        |           |
+| 4:20-4:45   | Talk 15        |
+
 ## March 28-29, 2024
+
+<details>
+
+<summary> details </summary>
+
+* Location: [FRB 3200](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu) (2505 Hayward St, Ann Arbor, MI 48109)
+
+* PIs are grouped by the relevance of topics
+* Each PI presents for 15 minutes about
+    * Relevant prior works
+    * Specific research objectives for YR1 and beyond
+    * Topics for potential collaboration
+    * Very brief summary of expected expenditure (number of students, etc)
+* The discussion for each topic is concluded by brainstorming and open discussion. 
+* Dr. Baryshnikov is interested in participating over Zoom with his team members. He is checking the availability of his team members. 
+
+* Zoom link: [https://umich.zoom.us/j/93818281304?pwd=NEtaT0dQbElqQXU3V0dBVkVFWFY4dz09](https://umich.zoom.us/j/93818281304?pwd=NEtaT0dQbElqQXU3V0dBVkVFWFY4dz09)
+
+
+
 
 ### Travel
 
@@ -65,7 +132,7 @@ width: 70%;
 | 12:00 - 13:30  | lunch (tentatively in the campus) |
 | 13:30 - 15:00  | discussion     |
 
-
+</details>
 
 ## November 3, 2023
 <details>
