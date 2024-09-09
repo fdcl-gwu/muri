@@ -31,16 +31,16 @@ permalink: /meetings/
 
 |             | Topic          | Speaker   |
 | ----------- | -------------- | --------- |
-| **8:40-8:50**   | **Opening Remark** | Fred Leve |
-| 8:50-9:15   | Talk 1         |           |
-| 9:15-9:40   | Talk 2         |           |
-| 9:40-10:05  | Talk 3         |           |
-| 10:05-10:30 | Talk 4         |           |
+| **8:40-8:50**   | **Opening Remark** | Leve |
+| 8:50-9:15   | [Geometry, Topology, and Symmetry of Open Smooth and Hybrid Systems](./files/2024/Block-Review-2024.pdf) | Bloch |
+| 9:15-9:40   | [Propagation of Geometric Structures in Smooth Hybrid Systems](./files/2024/Clark-Review-2024.pdf) | Clark |
+| 9:40-10:05  | [Stochastic Hybrid Systems](./files/2024/Lee-Review-2024.pdf) | Lee |
+| 10:05-10:30 | [Modeling, Control, and Trajectory Optimization by Exploiting Lie Group Symmetry](./files/2024/Ghaffari-Review-2024.pdf) | Ghaffari |
 | **10:30-10:50** | **Break**          |
-| 10:50-11:15 | Talk 5         |           |
-| 11:15-11:40 | Talk 6         |           |
-| 11:40-12:05 | Talk 7         |           |
-| 12:05-12:30 | Talk 8         |           |
+| 10:50-11:15 | [Identifying Regions of Attraction in High Dimensional Systems](./files/2024/Mischaikow-Review-2024.pdf) | Mischaikow |
+| 11:15-11:40 | [Identifying Switching Behavior and Bifurcations in Interaction Networks](./files/2024/Kalies-Review-2024.pdf) | Kalies |
+| 11:40-12:05 | [Towards a Categorical Framework for Open Hybrid Systems](./files/2024/Guralnik-Review-2024.pdf) | Guralnik |
+| 12:05-12:30 | [Bringing the Heat: Swift Trajectory Planning with Spatial-Pseudospectral Techniques](./files/2024/Vasudevan-Review-2024.pdf) | Vasudevan |
 | **12:30-1:30**  | **Lunch**          |
 | 1:30-1:55   | Talk 9         |           |
 | 1:55-2:20   | Talk 10        |           |
