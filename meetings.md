@@ -10,8 +10,9 @@ permalink: /meetings/
 
 * Location: University of Illinois Urbana-Champaign
 
-    * Coordinated Science Laboratory (CSL) [(map)](https://maps.app.goo.gl/fUjowZBAbTFnKvPL7)
+    * Coordinated Science Laboratory (CSL301) [(map)](https://maps.app.goo.gl/fUjowZBAbTFnKvPL7)
 
+<!---
 * Lodging
 
     * [Illinois Union](https://illiniunionhotel.illinois.edu/)
@@ -25,6 +26,7 @@ permalink: /meetings/
 
     * [Hyatt Place](https://www.hyatt.com/hyatt-place/en-US/cmizc-hyatt-place-champaign-urbana)
     > Some visitors like to stay here because this location is off campus in downtown Champaign, with restaurants and bars right next to it. But this is about 1 mile to CSL, can either walk or take a bus (city bus or hotel shuttle). The hotel itself is quite pleasant.
+    -->
 
 
 ### Agenda
