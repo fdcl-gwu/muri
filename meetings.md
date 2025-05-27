@@ -12,10 +12,10 @@ permalink: /meetings/
 - **Zoom link**: TBD
 
 - **Objectives**
-  - Share the recent progress of each PI
-  - Continue the current collaborative work of small groups and explore new ideas
-  - Plan the annual review meeting 
-  - Set research objectives for YR3
+  - Share recent progress from each PI
+  - Continue current collaborative work in small groups and explore new ideas
+  - Plan for the annual review meeting
+  - Set research objectives for Year 3
    
 ### Agenda
 
