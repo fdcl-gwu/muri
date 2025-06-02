@@ -6,10 +6,10 @@ permalink: /meetings/
 
 ### June 5, 2025 – Ann Arbor, MI
 
-- **Location**: [FRB (Room TBD)](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu)  
+- **Location**: [FRB 4000](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu)  
   2505 Hayward St, Ann Arbor, MI 48109  
 
-- **Zoom link**: TBD
+- **Zoom link**: [https://gwu-edu.zoom.us/j/7268532775](https://gwu-edu.zoom.us/j/7268532775)
 
 - **Objectives**
   - Share recent progress from each PI
@@ -73,12 +73,12 @@ permalink: /meetings/
 
 | Time          | Groups         |
 | ------------- | --------------- |
-| 01:00 - 01:40 | **Group A**: Mischaikov, Vasudevan, Kalies |
-|  | **Group B**: Bloch, Clark, Ghaffari |
-|  | **Group C**: Lee, Guralnik |
+| 01:00 - 01:40 | **Group A**: Mischaikov, Ghaffari, Kalies |
+|  | **Group B**: Bloch, Clark |
+|  | **Group C**: Lee, Guralnik, Vasudevan |
 | 01:50 - 02:30 | **Group A**: Bloch, Mischaikov, Guralnik |
-|  | **Group B**: Lee, Clark, Vasudevan |
-|  | **Group C**: Ghaffari, Kalies
+|  | **Group B**: Lee, Clark, Ghaffari |
+|  | **Group C**: Vasudevan, Kalies |
 
 
 #### Session 3: Planning
