@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Meeting
+title: 2025 Review
 permalink: /meetings/
 ---
 
