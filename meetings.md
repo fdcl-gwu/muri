@@ -1,28 +1,29 @@
 ---
 layout: page
-title: 2025 Review
+title: 2025 MURI Review
 permalink: /meetings/
 ---
 
-### 2025 MURI Annual Review
 
-- **Location**   
+### **Location**   
 
-    - Address  
+- **Address**  
+
   **Room B1270**, Science and Engineering Hall [(Google Map)](https://maps.app.goo.gl/tLrgmMBWs3DbgHrFA)  
   George Washington University  
   800 22nd St NW, Washington DC, 20052  
 
-    - **Building Access**: The building requires *tap access* for entry. You may typically follow other GW students or faculty members who are entering or exiting. If you encounter any difficulty entering the building, please text Taeyoung at TBD.
+    - The building requires *tap access* for entry. You may typically follow other GW students or faculty members who are entering or exiting. If you encounter any difficulty entering the building, please text Taeyoung at TBD.
+
     - Upon entering, take the stairs (or elevator) to the basement, turn right, and proceed straight down the hallway. Room B1270 will be on your right.
 
-    - **Lodging**: a few hotels near the campus are marked below.
+- **Lodging**: a few hotels near the campus are marked below.
 
     <iframe src="https://www.google.com/maps/d/embed?mid=1W2d3lWP6Ffsvp-4G6p1m2o3cs2Scm4w&ehbc=2E312F" width="320" height="220"></iframe>
 
-    - **Metro**: The closest metro station is Foggy Bottom.
+- **Metro**: The closest metro station is Foggy Bottom.
 
-    - **Parking**: [GW visitor parking options](https://business-services.gwu.edu/visitor-parking)
+- **Parking**: [GW visitor parking options](https://business-services.gwu.edu/visitor-parking)
 
 - **Zoom link**: [https://gwu-edu.zoom.us/j/99596771550?pwd=kNKrc8E56Uhtr3dfCyM3ciUydx0u44.1](https://gwu-edu.zoom.us/j/99596771550?pwd=kNKrc8E56Uhtr3dfCyM3ciUydx0u44.1)
    
