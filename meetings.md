@@ -4,8 +4,7 @@ title: 2025 MURI Review
 permalink: /meetings/
 ---
 
-
-### **Location**   
+### Location   
 
 - **Address**  
 
