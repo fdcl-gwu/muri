@@ -12,7 +12,8 @@ permalink: /meetings/
   George Washington University  
   800 22nd St NW, Washington DC, 20052  
 
-    - The building requires *tap access* for entry. You may typically follow other GW students or faculty members who are entering or exiting. If you encounter any difficulty entering the building, please text Taeyoung at TBD.
+    - The building requires GW tap access for entry. You may usually follow other GW students or faculty members who are entering or exiting. If you experience any difficulty entering, a sign at the door will provide a cell phone number to contact.
+
 
     - Upon entering, take the stairs (or elevator) to the basement, turn right, and proceed straight down the hallway. Room B1270 will be on your right.
 
