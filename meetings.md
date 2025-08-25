@@ -37,18 +37,19 @@ permalink: /meetings/
     }
 </style>
 
+
 | Time | Topic | Speaker |
 | :--: | :----: | :----  |
 | **8:15 - 8:25** | **Opening Remark** | Leve |
-| 8:25 - 8:50 | Talk 1 |  |
-| 8:50 - 9:15 | Talk 2 |  |
-| 9:15 - 9:40 | Talk 3 |  |
-| 9:40 - 10:05 | Talk 4 |  |
+| 8:25 - 8:50 | [Stochastic Hybrid System](files/2025/Lee-Review-2025.pdf) | Lee  |
+| 8:50 - 9:15 | [Dynamics and Control in Hybrid Systems with Singular Guards](files/2025/Clark-Review-2025.pdf)| Clark |
+| 9:15 - 9:40 | [Conley Theory for Hybrid Systems](files/2025/Kalies-Review-2025.pdf) | Kalies |
+| 9:40 - 10:05 | [Geometric Methods for Fast and Feasible Hybrid Trajectory Optimization](files/2025/Vasudevan-Review-2025.pdf) | Vasudevan |
 | **10:05 - 10:20** | **Break** |  |
-| 10:20 - 10:45 | Talk 5 |  |
-| 10:45 - 11:10 | Talk 6 |  |
-| 11:10 - 11:35 | Talk 7 |  |
-| 11:35 - 12:00 | Talk 8 |  |
+| 10:20 - 10:45 | [Stability and Stabilization of Network Dynamical Systems and Switching](files/2025/Block-Review-2025.pdf) | Bloch |
+| 10:45 - 11:10 | [Spaces With Jump Relations: An Approach to Hybrid Dynamics](files/2025/Guralnik-Review-2025.pdf) | Guralnik |
+| 11:10 - 11:35 | [Towards an Algorithmic Approach to Control of Dynamic Phenotypes](files/2025/Mischaikow-Review-2025.pdf) | Mischaikow  |
+| 11:35 - 12:00 | [Hybrid Dynamical Systems: From Learning Toward Estimation and Optimization](files/2025/Ghaffari-Review-2025.pdf) | Ghaffari |
 | **12:00 - 13:30** | **Lunch** |  |
 | 13:30 - 14:00 | Talk 9 | Baryshnikov |
 | 14:00 - 14:25 | Talk 10 | Koditschek |
