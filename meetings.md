@@ -52,12 +52,12 @@ permalink: /meetings/
 | 11:10 - 11:35 | [Towards an Algorithmic Approach to Control of Dynamic Phenotypes](files/2025/Mischaikow-Review-2025.pdf) | Mischaikow  |
 | 11:35 - 12:00 | [Hybrid Dynamical Systems: From Learning Toward Estimation and Optimization](files/2025/Ghaffari-Review-2025.pdf) | Ghaffari |
 | **12:00 - 13:30** | **Lunch** |  |
-| 13:30 - 14:00 | Talk 9 | Baryshnikov |
-| 14:00 - 14:25 | Talk 10 | Koditschek |
-| 14:25 - 14:50 | Talk 11 | Mitra |
-| 14:50 - 15:15 | Talk 12 | Liberzon |
+| 13:30 - 14:00 | [Spaces of Trajectories as Primitives](files/2025/Baryshnikov-Review-2025.pdf) | Baryshnikov |
+| 14:00 - 14:25 | [More on Anchoring and Anchorability](files/2025/Koditschek-Review-2025.pdf) | Koditschek |
+| 14:25 - 14:50 | [Designing Hybrid Control with Coarse Observations](files/2025/Mitra-Review-2025.pdf) | Mitra |
+| 14:50 - 15:15 | [Some Geometric and Topological Questions for Hybrid Systems Arising in SLAM with Coarse Measurements](Files/2025/Liberzon-Review-2025.Pdf) | Liberzon |
 | **15:15 - 15:30** | **Break** |  |
-| 15:30 - 15:55 | Talk 13 | Tabuada |
-| 15:55 - 16:20 | Talk 14 | Ames |
-| 16:20 - 16:45 | Talk 15 | Muller |
+| 15:30 - 15:55 | [Asymptotic Behavior Matching for Hybrid Systems](files/2025/Tabuada-Review-2025.pdf) | Tabuada |
+| 15:55 - 16:20 | [Categorical Lyapunov Theory: From Hybrid Systems to Coalgebras](files/2025/Ames-Review-2025.pdf) | Ames |
+| 16:20 - 16:45 | [... and Back](files/2025/Ames-Review-2025.pdf) | Moeller |
 | **16:45 - 17:00** | **Closing Remark** | Leve |
