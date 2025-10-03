@@ -25,7 +25,7 @@ permalink: /meetings/
 
 - **Parking**: [GW visitor parking options](https://business-services.gwu.edu/visitor-parking)
 
-- **Zoom link**: [https://gwu-edu.zoom.us/j/99596771550?pwd=kNKrc8E56Uhtr3dfCyM3ciUydx0u44.1](https://gwu-edu.zoom.us/j/99596771550?pwd=kNKrc8E56Uhtr3dfCyM3ciUydx0u44.1)
+<!--- **Zoom link**: [https://gwu-edu.zoom.us/j/99596771550?pwd=kNKrc8E56Uhtr3dfCyM3ciUydx0u44.1](https://gwu-edu.zoom.us/j/99596771550?pwd=kNKrc8E56Uhtr3dfCyM3ciUydx0u44.1)-->
    
 ### Agenda
 
