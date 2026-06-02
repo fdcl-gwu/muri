@@ -6,7 +6,7 @@ permalink: /meetings/
 
 - **Date**: Thursday, September 3rd, 2026
 
-- **Room 2000**, Science and Engineering Hall [(Google Map)](https://maps.app.goo.gl/tLrgmMBWs3DbgHrFA)  
+- **Location**: Room 2000, Science and Engineering Hall [(Google Map)](https://maps.app.goo.gl/tLrgmMBWs3DbgHrFA)  
   The George Washington University  
   800 22nd St NW, Washington, DC 20052
 
