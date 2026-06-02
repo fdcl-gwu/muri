@@ -4,7 +4,7 @@ title: 2026 MURI Review
 permalink: /meetings/
 ---
 
-### Location
+- **Date**: Thursday, September 3rd, 2026
 
 - **Room 2000**, Science and Engineering Hall [(Google Map)](https://maps.app.goo.gl/tLrgmMBWs3DbgHrFA)  
   The George Washington University  
@@ -39,20 +39,20 @@ permalink: /meetings/
     }
 </style>
 
-| Time | Activity | Speaker |
+| Time | Topic | Speaker |
 |------|----------|---------|
-| **8:50–9:00** | Opening Remarks | TBD |
+| **8:50–9:00** | **Opening Remarks** | TBD |
 | 9:00–9:30 | Talk 1 | TBD |
 | 9:30–10:00 | Talk 2 | TBD |
 | 10:00–10:30 | Talk 3 | TBD |
-| **10:30–10:50** | Coffee Break | — |
+| **10:30–10:50** | **Break** | — |
 | 10:50–11:20 | Talk 4 | TBD |
 | 11:20–11:50 | Talk 5 | TBD |
-| **11:50–1:00** | Lunch | — |
+| **11:50–1:00** | **Lunch** | catered |
 | 1:00–1:30 | Talk 6 | TBD |
 | 1:30–2:00 | Talk 7 | TBD |
 | 2:00–2:30 | Talk 8 | TBD |
-| **2:30–2:50** | Closing Remarks | TBD |
+| **2:30–2:50** | **Closing Remarks** | TBD |
 
 <!-- | Time | Topic | Speaker | -->
 <!-- | :--: | :----: | :----  | -->
