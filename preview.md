@@ -15,7 +15,7 @@ permalink: /meetings/
   - Share recent progress from each PI
   - Continue current collaborative work in small groups and explore new ideas
   - Plan for the annual review meeting
-  - Set research objectives for Year 3
+  - Set research objectives for Year 4
    
 ### Agenda
 
@@ -33,34 +33,25 @@ permalink: /meetings/
 - Each PI is allocated **20 minutes**:  
   **5–10 minutes** for presentation and **10–15 minutes** for open discussion.
 - Each presentation should cover:
-  - Progress and accomplishments in Year 2
-  - Research objectives for Year 3
+  - Progress and accomplishments in Year 3
+  - Research objectives for Year 4
   - A brief summary of expected expenditures (number of students, etc.)
 
 | Time          | Speaker    |
 |---------------|------------|
-
 | 09:00 – 09:20 | Lee        |
 | 09:20 – 09:40 | Clark      |
 | 09:40 – 10:00 | Bloch      |
 | 10:00 - 10:20 | Ghaffari   |
-
-| 10:20 – 10:40 | **Break**  |
-
-| Time          | Speaker    |
-|---------------|------------|
+| **10:20 – 10:40l** | **Break**  |
 | 10:40 – 11:00 | Kalies     |
 | 11:00 – 11:20 | Vasudevan  |
 | 11:20 – 11:40 | Guralnik   |
-
-| 11:40 – 12:30 | **Lunch**  |
+| **11:40 – 12:30** | **Lunch**  |
 
 #### Session 2: Group Meetings
 
 - Each group will discuss a topic of common interest.
-- The **first set of meetings** focuses on current collaboration.  
-  The **second set** is exploratory.
-- Suggestions for group adjustments are welcome.
 
 | Time          | Groups         |
 | ------------- | --------------- |
@@ -70,8 +61,7 @@ permalink: /meetings/
 | 12:55 - 1:20 | **Group A**: Bloch, Clark |
 |  | **Group B**: Guralnik, Ghaffari |
 |  | **Group C**: Vasudevan, Lee, Kalies |
-
-| 1:20 - 1:30 | **Break**  |
+| **1:20 - 1:30** | **Break**  |
 
 #### Session 3: Planning
 
