@@ -4,9 +4,9 @@ title: Team Meeting
 permalink: /meetings/
 ---
 
-### June 5, 2025 – Ann Arbor, MI
+### June 15, 2026 – Ann Arbor, MI
 
-- **Location**: [FRB 4000](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu)  
+- **Location**: [FRB ???](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu)  
   2505 Hayward St, Ann Arbor, MI 48109  
 
 - **Zoom link**: [https://gwu-edu.zoom.us/j/7268532775](https://gwu-edu.zoom.us/j/7268532775)
@@ -28,13 +28,6 @@ permalink: /meetings/
     }
 </style>
 
-#### Project Overview
-
-| Time          | Speaker |
-|---------------|---------|
-| 08:50 – 09:00 | Lee     |
-
-
 #### Session 1: Project Update
 
 - Each PI is allocated **20 minutes**:  
@@ -46,23 +39,21 @@ permalink: /meetings/
 
 | Time          | Speaker    |
 |---------------|------------|
-| 09:00 – 09:20 | Mischaikow |
-| 09:20 – 09:40 | Vasudevan  |
-| 09:40 – 10:00 | Clark      |
-| 10:00 – 10:10 | **Break**  |
+
+| 09:00 – 09:20 | Lee        |
+| 09:20 – 09:40 | Clark      |
+| 09:40 – 10:00 | Bloch      |
+| 10:00 - 10:20 | Ghaffari   |
+
+| 10:20 – 10:40 | **Break**  |
 
 | Time          | Speaker    |
 |---------------|------------|
-| 10:10 – 10:30 | Bloch      |
-| 10:30 – 10:50 | Guralnik   |
-| 10:50 – 11:10 | Lee        |
-| 11:10 – 11:20 | **Break**  |
+| 10:40 – 11:00 | Kalies     |
+| 11:00 – 11:20 | Vasudevan  |
+| 11:20 – 11:40 | Guralnik   |
 
-| Time          | Speaker    |
-|---------------|------------|
-| 11:20 – 11:40 | Kalies     |
-| 11:40 – 12:00 | Ghaffari   |
-
+| 11:40 – 12:30 | **Lunch**  |
 
 #### Session 2: Group Meetings
 
@@ -73,20 +64,20 @@ permalink: /meetings/
 
 | Time          | Groups         |
 | ------------- | --------------- |
-| 01:00 - 01:40 | **Group A**: Mischaikov, Ghaffari, Kalies |
-|  | **Group B**: Bloch, Clark |
-|  | **Group C**: Lee, Guralnik, Vasudevan |
-| 01:50 - 02:30 | **Group A**: Bloch, Mischaikov, Guralnik |
-|  | **Group B**: Lee, Clark, Ghaffari |
-|  | **Group C**: Vasudevan, Kalies |
+| 12:30 - 12:55 | **Group A**: Bloch, Ghaffari, Lee |
+|  | **Group B**: Clark, Vasudevan |
+|  | **Group C**: Guralnik, Kalies |
+| 12:55 - 1:20 | **Group A**: Bloch, Clark |
+|  | **Group B**: Guralnik, Ghaffari |
+|  | **Group C**: Vasudevan, Lee, Kalies |
 
+| 1:20 - 1:30 | **Break**  |
 
 #### Session 3: Planning
 
-- Brief report from each group
-- Discussion of topics for the **2025 AFOSR Annual Review Meeting**
-- Planning of research objectives for **Year 3 and beyond**
+- Discussion of topics for the **Annaul Report** and **Review Meeting**
+- Planning of research objectives for **Year 4 and beyond**
 
 | Time          | Speaker |
 |---------------|---------|
-| 02:40 – 03:30 | All     |
+| 1:30 - 2:00   | All     |
