@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Meeting
-permalink: /meetings/
+permalink: /preview/
 ---
 
 ### June 15, 2026 – Ann Arbor, MI
@@ -41,13 +41,13 @@ permalink: /meetings/
 |---------------|------------|
 | 09:00 – 09:20 | Lee        |
 | 09:20 – 09:40 | Clark      |
-| 09:40 – 10:00 | Bloch      |
-| 10:00 - 10:20 | Ghaffari   |
-| **10:20 – 10:40l** | **Break**  |
+| 09:40 - 10:00 | Bloch   |
+| 10:00 – 10:20 | Ghaffari   |
+| **10:20 – 10:40** | **Break**  |
 | 10:40 – 11:00 | Kalies     |
 | 11:00 – 11:20 | Vasudevan  |
 | 11:20 – 11:40 | Guralnik   |
-| **11:40 – 12:30** | **Lunch**  |
+| **11:40 – 12:40** | **Lunch**  |
 
 #### Session 2: Group Meetings
 
@@ -55,13 +55,13 @@ permalink: /meetings/
 
 | Time          | Groups         |
 | ------------- | --------------- |
-| 12:30 - 12:55 | **Group A**: Bloch, Ghaffari, Lee |
+| 12:40 - 01:05 | **Group A**: Bloch, Ghaffari, Lee |
 |  | **Group B**: Clark, Vasudevan |
 |  | **Group C**: Guralnik, Kalies |
-| 12:55 - 1:20 | **Group A**: Bloch, Clark |
+| 01:05 - 1:30 | **Group A**: Bloch, Clark |
 |  | **Group B**: Guralnik, Ghaffari |
 |  | **Group C**: Vasudevan, Lee, Kalies |
-| **1:20 - 1:30** | **Break**  |
+| **1:30 - 1:40** | **Break**  |
 
 #### Session 3: Planning
 
@@ -70,4 +70,4 @@ permalink: /meetings/
 
 | Time          | Speaker |
 |---------------|---------|
-| 1:30 - 2:00   | All     |
+| 1:40 - 2:20   | All     |
