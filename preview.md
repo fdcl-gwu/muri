@@ -6,7 +6,7 @@ permalink: /preview/
 
 ### June 15, 2026 – Ann Arbor, MI
 
-- **Location**: [FRB ???](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu)  
+- **Location**: [FRB 4000](https://www.google.com/maps/place/Robotics+Building+(FMCRB)/@42.2938494,-83.7119045,17z/data=!4m6!3m5!1s0x883cafd72c7833fb:0x9e6d97554b1b2ca!8m2!3d42.2943546!4d-83.7097256!16s%2Fg%2F11j21dyf6s?authuser=0&entry=ttu)  
   2505 Hayward St, Ann Arbor, MI 48109  
 
 - **Zoom link**: [https://gwu-edu.zoom.us/j/7268532775](https://gwu-edu.zoom.us/j/7268532775)
