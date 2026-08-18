@@ -37,7 +37,7 @@ permalink: /meetings/
 | 9:30 - 10:00 | [stability and stabilization of network dynamical systems and switching](files/2025/block-review-2025.pdf) | Bloch |
 | 10:00 - 10:30 | [conley theory for hybrid systems](files/2025/kalies-review-2025.pdf) | Kalies |
 | **10:30 - 10:50** | **break** |  |
-| 10:50 - 11:20 kkk | [dynamics and control in hybrid systems with singular guards](files/2025/clark-review-2025.pdf)| Clark |
+| 10:50 - 11:20 | [dynamics and control in hybrid systems with singular guards](files/2025/clark-review-2025.pdf)| Clark |
 | 10:45 - 11:10 | [spaces with jump relations: an approach to hybrid dynamics](files/2025/guralnik-review-2025.pdf) | Guralnik |
 | 11:10 - 11:35 | [towards an algorithmic approach to control of dynamic phenotypes](files/2025/mischaikow-review-2025.pdf) | Mischaikow  |
 | 11:35 - 12:00 | [hybrid dynamical systems: from learning toward estimation and optimization](files/2025/ghaffari-review-2025.pdf) | Ghaffari |
