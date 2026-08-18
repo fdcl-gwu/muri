@@ -16,7 +16,7 @@ permalink: /preview/
   - Continue current collaborative work in small groups and explore new ideas
   - Plan for the annual review meeting
   - Set research objectives for Year 4
-   
+  
 ### Agenda
 
 <style>
@@ -47,20 +47,20 @@ permalink: /preview/
 | 10:40 – 11:00 | Kalies     |
 | 11:00 – 11:20 | Vasudevan  |
 | 11:20 – 11:40 | Guralnik   |
-| **11:40 – 12:40** | **Lunch**  |
+| **12:30 – 1:30** | **Lunch**  |
 
-#### Session 2: Group Meetings
+#### Session 2: Group Meetings / Lunch
 
 - Each group will discuss a topic of common interest.
 
 | Time          | Groups         |
 | ------------- | --------------- |
-| 12:40 - 01:05 | **Group A**: Bloch, Ghaffari, Lee |
-|  | **Group B**: Clark, Vasudevan |
-|  | **Group C**: Guralnik, Kalies |
-| 01:05 - 1:30 | **Group A**: Bloch, Clark |
-|  | **Group B**: Guralnik, Ghaffari |
-|  | **Group C**: Vasudevan, Lee, Kalies |
+| 12:30 - 12:55 | **Group A**: Bloch, Ghaffari, Lee (Outside of 4000) |
+|  | **Group B**: Clark, Vasudevan, Rivas (End of the hall) |
+|  | **Group C**: Guralnik, Kalies (FRB 4000) |
+| 01:00 - 1:25 | **Group A**: Bloch, Clark (Outside of 4000) |
+|  | **Group B**: Guralnik, Ghaffari, Rivas (End of the hall) |
+|  | **Group C**: Vasudevan, Lee, Kalies (FRB 4000) |
 | **1:30 - 1:40** | **Break**  |
 
 #### Session 3: Planning

@@ -39,39 +39,39 @@ permalink: /meetings/
     }
 </style>
 
-| Time | Topic | Speaker |
-|------|----------|---------|
-| **8:50–9:00** | **Opening Remarks** | TBD |
-| 9:00–9:30 | Talk 1 | TBD |
-| 9:30–10:00 | Talk 2 | TBD |
-| 10:00–10:30 | Talk 3 | TBD |
-| **10:30–10:50** | **Break** | — |
-| 10:50–11:20 | Talk 4 | TBD |
-| 11:20–11:50 | Talk 5 | TBD |
-| **11:50–1:00** | **Lunch** | catered |
-| 1:00–1:30 | Talk 6 | TBD |
-| 1:30–2:00 | Talk 7 | TBD |
-| 2:00–2:30 | Talk 8 | TBD |
-| **2:30–2:50** | **Closing Remarks** | TBD |
-
 <!-- | Time | Topic | Speaker | -->
-<!-- | :--: | :----: | :----  | -->
-<!-- | **8:50 - 9:00** | **Opening Remark** | Leve | -->
-<!-- | 9:00 - 9:30 | [Stochastic Hybrid System](files/2025/Lee-Review-2025.pdf) | Lee  | -->
-<!-- | 9:30 - 10:00 | [Stability and Stabilization of Network Dynamical Systems and Switching](files/2025/Block-Review-2025.pdf) | Bloch | -->
-<!-- | 10:00 - 10:30 | [Conley Theory for Hybrid Systems](files/2025/Kalies-Review-2025.pdf) | Kalies | -->
-<!-- | **10:30 - 10:50** | **Break** |  | -->
-<!-- | 10:50 - 11:20 kkk | [Dynamics and Control in Hybrid Systems with Singular Guards](files/2025/Clark-Review-2025.pdf)| Clark | -->
-<!-- | 10:45 - 11:10 | [Spaces With Jump Relations: An Approach to Hybrid Dynamics](files/2025/Guralnik-Review-2025.pdf) | Guralnik | -->
-<!-- | 11:10 - 11:35 | [Towards an Algorithmic Approach to Control of Dynamic Phenotypes](files/2025/Mischaikow-Review-2025.pdf) | Mischaikow  | -->
-<!-- | 11:35 - 12:00 | [Hybrid Dynamical Systems: From Learning Toward Estimation and Optimization](files/2025/Ghaffari-Review-2025.pdf) | Ghaffari | -->
-<!-- | **12:00 - 13:30** | **Lunch** |  | -->
-<!-- | 13:30 - 14:00 | [Spaces of Trajectories as Primitives](files/2025/Baryshnikov-Review-2025.pdf) | Baryshnikov | -->
-<!-- | 14:00 - 14:25 | [More on Anchoring and Anchorability](files/2025/Koditschek-Review-2025.pdf) | Koditschek | -->
-<!-- | 14:25 - 14:50 | [Designing Hybrid Control with Coarse Observations](files/2025/Mitra-Review-2025.pdf) | Mitra | -->
-<!-- | 14:50 - 15:15 | [Some Geometric and Topological Questions for Hybrid Systems Arising in SLAM with Coarse Measurements](Files/2025/Liberzon-Review-2025.Pdf) | Liberzon | -->
-<!-- | **15:15 - 15:30** | **Break** |  | -->
-<!-- | 15:30 - 15:55 | [Asymptotic Behavior Matching for Hybrid Systems](files/2025/Tabuada-Review-2025.pdf) | Tabuada | -->
-<!-- | 15:55 - 16:20 | [Categorical Lyapunov Theory: From Hybrid Systems to Coalgebras](files/2025/Ames-Review-2025.pdf) | Ames | -->
-<!-- | 16:20 - 16:45 | [... and Back](files/2025/Ames-Review-2025.pdf) | Moeller | -->
-<!-- | **16:45 - 17:00** | **Closing Remark** | Leve | -->
+<!-- |------|----------|---------| -->
+<!-- | **8:50–9:00** | **Opening Remarks** | TBD | -->
+<!-- | 9:00–9:30 | Talk 1 | TBD | -->
+<!-- | 9:30–10:00 | Talk 2 | TBD | -->
+<!-- | 10:00–10:30 | Talk 3 | TBD | -->
+<!-- | **10:30–10:50** | **Break** | — | -->
+<!-- | 10:50–11:20 | Talk 4 | TBD | -->
+<!-- | 11:20–11:50 | Talk 5 | TBD | -->
+<!-- | **11:50–1:00** | **Lunch** | catered | -->
+<!-- | 1:00–1:30 | Talk 6 | TBD | -->
+<!-- | 1:30–2:00 | Talk 7 | TBD | -->
+<!-- | 2:00–2:30 | Talk 8 | TBD | -->
+<!-- | **2:30–2:50** | **Closing Remarks** | TBD | -->
+<!---->
+| time | topic | speaker |
+| :--: | :----: | :----  |
+| **8:50 - 9:00** | **opening remark** | leve |
+| 9:00 - 9:30 | [stochastic hybrid system](files/2025/lee-review-2025.pdf) | lee  |
+| 9:30 - 10:00 | [stability and stabilization of network dynamical systems and switching](files/2025/block-review-2025.pdf) | bloch |
+| 10:00 - 10:30 | [conley theory for hybrid systems](files/2025/kalies-review-2025.pdf) | kalies |
+| **10:30 - 10:50** | **break** |  |
+| 10:50 - 11:20 kkk | [dynamics and control in hybrid systems with singular guards](files/2025/clark-review-2025.pdf)| clark |
+| 10:45 - 11:10 | [spaces with jump relations: an approach to hybrid dynamics](files/2025/guralnik-review-2025.pdf) | guralnik |
+| 11:10 - 11:35 | [towards an algorithmic approach to control of dynamic phenotypes](files/2025/mischaikow-review-2025.pdf) | mischaikow  |
+| 11:35 - 12:00 | [hybrid dynamical systems: from learning toward estimation and optimization](files/2025/ghaffari-review-2025.pdf) | ghaffari |
+| **12:00 - 13:30** | **lunch** |  |
+| 13:30 - 14:00 | [spaces of trajectories as primitives](files/2025/baryshnikov-review-2025.pdf) | baryshnikov |
+| 14:00 - 14:25 | [more on anchoring and anchorability](files/2025/koditschek-review-2025.pdf) | koditschek |
+| 14:25 - 14:50 | [designing hybrid control with coarse observations](files/2025/mitra-review-2025.pdf) | mitra |
+| 14:50 - 15:15 | [some geometric and topological questions for hybrid systems arising in slam with coarse measurements](files/2025/liberzon-review-2025.pdf) | liberzon |
+| **15:15 - 15:30** | **break** |  |
+| 15:30 - 15:55 | [asymptotic behavior matching for hybrid systems](files/2025/tabuada-review-2025.pdf) | tabuada |
+| 15:55 - 16:20 | [categorical lyapunov theory: from hybrid systems to coalgebras](files/2025/ames-review-2025.pdf) | ames |
+| 16:20 - 16:45 | [... and back](files/2025/ames-review-2025.pdf) | moeller |
+| **16:45 - 17:00** | **closing remark** | leve |
