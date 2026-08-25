@@ -53,4 +53,4 @@ permalink: /meetings/
 | 1:00–1:30 | [Hybrid Systems Approach to Bipedal Locomotion with Slippage and Hybrid Control of Dispersion](./files/2026/Block-Review-2026.pdf) | Anthony Bloch |
 | 1:30–2:00 | [Scalable Moment-Based Filtering and Extensions to Hybrid Systems](./files/2026/Ghaffari-Review-2026.pdf) | Maani Ghaffari |
 | 2:00–2:30 | [Finite-Time Geometric Heat Flow for Fast and Feasible Trajectory Optimization Through Contact](./files/2026/Vasudevan-Review-2026.pdf) | Ram Vasudevan |
-| **2:3–2:50** | **Closing Remarks** | Fred Leve |
+| **2:30–2:50** | **Closing Remarks** | Fred Leve |
