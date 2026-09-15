@@ -43,14 +43,14 @@ permalink: /meetings/
 | Time | Topic | Speaker |
 |------|-------|---------|
 | **8:50–9:00** | **Opening Remarks** | Fred Leve |
-| 9:00–9:30 | [Stochastic Hybrid Dynamics Across Symmetry Strata](./files/2026/Lee-Review-2026.pdf) | Taeyoung Lee |
-| 9:30–10:00 | [Poset-Stratified Hybrid State Spaces](./files/2026/Guralnik-Review-2026.pdf) | Dan Guralnik |
-| 10:00–10:30 | [Practical Numerics for Hybrid Systems](./files/2026/Clark-Review-2026.pdf) | William Clark |
+| 9:00–9:30 | [Stochastic Hybrid Dynamics Across Symmetry Strata](https://drive.google.com/file/d/1eyihJhh3gU7mUECoCUVx2C89cVLjnOJq/view) | Taeyoung Lee |
+| 9:30–10:00 | [Poset-Stratified Hybrid State Spaces](https://drive.google.com/file/d/1n8L3Hvd6mogcN8K6bqckhSTgbhE9mfw5/view) | Dan Guralnik |
+| 10:00–10:30 | [Practical Numerics for Hybrid Systems](https://drive.google.com/file/d/13O4r1C76m5MuO2XFtrdnmeka06-OzOMq/view) | William Clark |
 | **10:30–10:50** | **Break** | — |
-| 10:50–11:20 | [Homological Approach to Hybrid Dynamics I](./files/2026/Kalies-Review-2026.pdf) | William Kalies |
-| 11:20–11:50 | [Homological Approach to Hybrid Dynamics II](./files/2026/Mischaikow-Review-2026.pdf) | Konstantin Mischaikow |
+| 10:50–11:20 | [Homological Approach to Hybrid Dynamics I](https://drive.google.com/file/d/1lRVf0YGEOTiRBEsgTbs0ch6TBBIUdG5S/view) | William Kalies |
+| 11:20–11:50 | [Homological Approach to Hybrid Dynamics II](https://drive.google.com/file/d/1O3wMWwNjIW2nfgA2lnCPCYwBZk3Aq1-o/view) | Konstantin Mischaikow |
 | **11:50–1:00** | **Lunch** | catered |
-| 1:00–1:30 | [Hybrid Systems Approach to Bipedal Locomotion with Slippage and Hybrid Control of Dispersion](./files/2026/Block-Review-2026.pdf) | Anthony Bloch |
-| 1:30–2:00 | [Scalable Moment-Based Filtering and Extensions to Hybrid Systems](./files/2026/Ghaffari-Review-2026.pdf) | Maani Ghaffari |
-| 2:00–2:30 | [Finite-Time Geometric Heat Flow for Fast and Feasible Trajectory Optimization Through Contact](./files/2026/Vasudevan-Review-2026.pdf) | Ram Vasudevan |
+| 1:00–1:30 | [Hybrid Systems Approach to Bipedal Locomotion with Slippage and Hybrid Control of Dispersion](https://drive.google.com/file/d/1ZcoLwOmm8VINfMRVtxs7N4UT3WGP1ul8/view) | Anthony Bloch |
+| 1:30–2:00 | [Scalable Moment-Based Filtering and Extensions to Hybrid Systems](https://drive.google.com/file/d/1_lXFUN7jfKBB4Nm2NwZWHwyhGk9llrDW/view) | Maani Ghaffari |
+| 2:00–2:30 | [Finite-Time Geometric Heat Flow for Fast and Feasible Trajectory Optimization Through Contact](https://drive.google.com/file/d/1-IBxEhOqwhERfpN9T9fsNpR9B_Att48m/view) | Ram Vasudevan |
 | **2:30–2:50** | **Closing Remarks** | Fred Leve |
